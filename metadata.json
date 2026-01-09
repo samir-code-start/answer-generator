@@ -1,0 +1,5 @@
+{
+  "name": "SPPU Exam Master",
+  "description": "A specialized AI assistant designed for Savitribai Phule Pune University students to generate high-scoring, examiner-friendly model answers based on marks weightage and strict academic formatting.",
+  "requestFramePermissions": []
+}
